@@ -96,7 +96,7 @@ Because CarTube Auto is a 3rd-party Android Auto projection application, you nee
 ```
 
 ### Step 1: Install the APK
-1. Download `CarTubeAuto-v2.8.8.apk` to your Android device.
+1. Download `CarTubeAuto-v2.8.9.apk` to your Android device.
 2. Open your Downloads and tap the APK to install (enable *"Install unknown apps"* for your browser/file manager if prompted).
 
 ### Step 2: Open CarTube Auto on Your Phone
