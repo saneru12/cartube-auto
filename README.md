@@ -7,7 +7,7 @@
 
   [![Android Version](https://img.shields.io/badge/Android-11%20to%2016-brightgreen.svg?style=for-the-badge&logo=android)](https://github.com)
   [![Root Status](https://img.shields.io/badge/Root-NOT%20REQUIRED-blue.svg?style=for-the-badge&logo=android)](https://github.com)
-  [![Latest Release](https://img.shields.io/badge/Release-v2.9.1-red.svg?style=for-the-badge&logo=github)](https://github.com/saneru12/cartube-auto/releases/latest)
+  [![Latest Release](https://img.shields.io/badge/Release-v2.9.2-red.svg?style=for-the-badge&logo=github)](https://github.com/saneru12/cartube-auto/releases/latest)
   [![Display](https://img.shields.io/badge/Android%20Auto-100%25%20Fullscreen-orange.svg?style=for-the-badge&logo=youtube)](https://github.com)
   [![License](https://img.shields.io/badge/Status-30--Day%20Free%20Trial-green.svg?style=for-the-badge)](https://saneruthisadara.gumroad.com/l/tsnomh)
 
@@ -81,7 +81,7 @@ Get the official, tested, virus-free APK release directly from our GitHub Releas
 
 | Asset | Version | Compatibility | Download Link |
 | :--- | :--- | :--- | :--- |
-| **CarTube Auto APK** | `v2.9.1` (Latest) | Android 11, 12, 13, 14, 15, 16 | [⬇️ Download CarTubeAuto-v2.9.1.apk](https://github.com/saneru12/cartube-auto/releases/latest) |
+| **CarTube Auto APK** | `v2.9.2` (Latest) | Android 11, 12, 13, 14, 15, 16 | [⬇️ Download CarTubeAuto-v2.9.2.apk](https://github.com/saneru12/cartube-auto/releases/latest) |
 
 *Includes a **30-Day Free Trial** with all features enabled!*
 
@@ -96,7 +96,7 @@ Because CarTube Auto is a 3rd-party Android Auto projection application, you nee
 ```
 
 ### Step 1: Install the APK
-1. Download CarTubeAuto-v2.9.1.apk to your Android device.
+1. Download CarTubeAuto-v2.9.2.apk to your Android device.
 2. Open your Downloads and tap the APK to install (enable *"Install unknown apps"* for your browser/file manager if prompted).
 
 ### Step 2: Open CarTube Auto on Your Phone
