@@ -1,0 +1,7 @@
+{
+  "versionCode": 32,
+  "versionName": "2.8.9",
+  "apkUrl": "https://github.com/saneruthisadara/cartube-auto/releases/download/v2.8.9/CarTubeAuto-v2.8.9.apk",
+  "changelog": "• In-App Automatic Updater: Seamlessly download and install new updates with 1-click\n• 100% Fullscreen YouTube on Android Auto vehicle displays\n• Built-in Ad-Blocker & background audio\n• Steering wheel media controls\n• Monthly subscription active badge",
+  "forceUpdate": false
+}

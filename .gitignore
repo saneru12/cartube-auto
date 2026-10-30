@@ -1,0 +1,33 @@
+# Ignore all Android source code from public repository
+app/
+server/
+tools/
+build/
+.gradle/
+.kotlin/
+gradle/
+gradlew*
+*.gradle.kts
+*.properties
+local.properties
+*.bat
+*.ps1
+*.jar
+*.aar
+*.mp4
+*.wav
+*.log
+*.bak
+AABrowser-main/
+PROMOTION_GUIDE_AND_TEMPLATES.md
+cartube_auto_avatar.jpg
+car_tube_logo.png
+classes.jar
+CarTubeAuto*.apk
+
+# Only track public documentation & assets
+!.gitignore
+!README.md
+!version.json
+!screenshots/
+!screenshots/*
