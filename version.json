@@ -1,7 +1,7 @@
 {
-  "versionCode": 32,
-  "versionName": "2.8.9",
-  "apkUrl": "https://github.com/saneruthisadara/cartube-auto/releases/download/v2.8.9/CarTubeAuto-v2.8.9.apk",
-  "changelog": "• In-App Automatic Updater: Seamlessly download and install new updates with 1-click\n• 100% Fullscreen YouTube on Android Auto vehicle displays\n• Built-in Ad-Blocker & background audio\n• Steering wheel media controls\n• Monthly subscription active badge",
+  "versionCode": 33,
+  "versionName": "2.9.1",
+  "apkUrl": "https://github.com/saneru12/cartube-auto/releases/download/v2.9.1/CarTubeAuto-v2.9.1.apk",
+  "changelog": "• Anti-Cheat Cloud Trial Registry (Uninstall & Reinstall protection)\n• Seamless 1-Click In-App Automatic Updater\n• 100% Fullscreen YouTube on Android Auto vehicle displays\n• Built-in Ad-Blocker & background audio with Google Maps\n• Steering wheel media controls support\n• R8 Code Obfuscation & Security hardening",
   "forceUpdate": false
 }
