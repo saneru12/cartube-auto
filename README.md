@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="./screenshots/banner.jpg" alt="CarTube Auto Banner" width="220" style="border-radius: 28px; box-shadow: 0 10px 30px rgba(220, 20, 60, 0.4);" />
+  <img src="./screenshots/car_tube_logo.png" alt="CarTube Auto Banner" width="220" style="border-radius: 28px; box-shadow: 0 10px 30px rgba(220, 20, 60, 0.4);" />
 
   # CarTube Auto 🚗▶️
   ### The Ultimate Standalone YouTube Player for Android Auto
