@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://saneru12.github.io/cartube-auto/sitemap.xml

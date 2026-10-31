@@ -30,8 +30,12 @@ car_tube_logo.png
 classes.jar
 CarTubeAuto*.apk
 
-# Only track public documentation & assets
+# Only track public documentation, SEO landing page & assets
 !.gitignore
+!.nojekyll
+!index.html
+!sitemap.xml
+!robots.txt
 !README.md
 !version.json
 !screenshots/

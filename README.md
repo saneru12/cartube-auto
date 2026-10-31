@@ -9,6 +9,7 @@
 
   <br/><br/>
 
+  [![Official Website](https://img.shields.io/badge/🌐_Official_Website-Live_Demo-2563EB?style=for-the-badge)](https://saneru12.github.io/cartube-auto/)
   [![Watch Video Guide](https://img.shields.io/badge/▶️_Watch_Full_Setup_Video-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/X8HYQsongrc)
   [![Latest Release](https://img.shields.io/badge/⬇️_Download_APK-v2.9.5_(30--Day_Free_Trial)-00C853?style=for-the-badge&logo=android&logoColor=white)](https://github.com/saneru12/cartube-auto/releases/latest)
 
