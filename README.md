@@ -1,21 +1,28 @@
 <div align="center">
 
-  <img src="./screenshots/banner.jpg" alt="CarTube Auto Banner" width="220" style="border-radius: 28px; box-shadow: 0 10px 30px rgba(220, 20, 60, 0.4);" />
-
   # CarTube Auto 🚗▶️
   ### The Ultimate Standalone YouTube Player for Android Auto
 
-  [![Android Version](https://img.shields.io/badge/Android-11%20to%2016-brightgreen.svg?style=for-the-badge&logo=android)](https://github.com)
-  [![Root Status](https://img.shields.io/badge/Root-NOT%20REQUIRED-blue.svg?style=for-the-badge&logo=android)](https://github.com)
-  [![Latest Release](https://img.shields.io/badge/Release-v2.9.5-red.svg?style=for-the-badge&logo=github)](https://github.com/saneru12/cartube-auto/releases/latest)
-  [![Display](https://img.shields.io/badge/Android%20Auto-100%25%20Fullscreen-orange.svg?style=for-the-badge&logo=youtube)](https://github.com)
-  [![License](https://img.shields.io/badge/Status-30--Day%20Free%20Trial-green.svg?style=for-the-badge)](https://saneruthisadara.gumroad.com/l/tsnomh)
+  <a href="https://youtu.be/X8HYQsongrc">
+    <img src="./screenshots/youtube_demo_embed.jpg" alt="Watch Official CarTube Auto Installation & Full Setup Guide on YouTube" width="100%" />
+  </a>
+
+  <br/><br/>
+
+  [![Watch Video Guide](https://img.shields.io/badge/▶️_Watch_Full_Setup_Video-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/X8HYQsongrc)
+  [![Latest Release](https://img.shields.io/badge/⬇️_Download_APK-v2.9.5_(30--Day_Free_Trial)-00C853?style=for-the-badge&logo=android&logoColor=white)](https://github.com/saneru12/cartube-auto/releases/latest)
+
+  [![Android Version](https://img.shields.io/badge/Android-11%20to%2016-brightgreen.svg?style=flat-square&logo=android)](https://github.com/saneru12/cartube-auto/releases/latest)
+  [![Root Status](https://img.shields.io/badge/Root-NOT%20REQUIRED-blue.svg?style=flat-square&logo=android)](https://github.com/saneru12/cartube-auto/releases/latest)
+  [![Display](https://img.shields.io/badge/Android%20Auto-100%25%20Fullscreen-orange.svg?style=flat-square&logo=youtube)](https://youtu.be/X8HYQsongrc)
+  [![License](https://img.shields.io/badge/Status-30--Day%20Free%20Trial-green.svg?style=flat-square)](https://saneruthisadara.gumroad.com/l/tsnomh)
 
   <p align="center">
     <strong>Experience YouTube on your vehicle's infotainment screen in true 100% borderless fullscreen without rooting your device!</strong>
   </p>
 
   <p align="center">
+    <a href="https://youtu.be/X8HYQsongrc"><strong>▶️ Watch Video Guide</strong></a> •
     <a href="#-quick-download">Download APK</a> •
     <a href="#-key-features">Key Features</a> •
     <a href="#-installation-guide-step-by-step">Installation Guide</a> •
@@ -88,6 +95,9 @@ Get the official, tested, virus-free APK release directly from our GitHub Releas
 ---
 
 ## 🛠️ Installation Guide (Step-by-Step)
+
+> [!TIP]
+> **Prefer watching a video?** Watch our complete step-by-step installation & car connection tutorial on YouTube: **[▶️ How to Watch YouTube on Android Auto | CarTube Full Setup Guide](https://youtu.be/X8HYQsongrc)**
 
 Because CarTube Auto is a 3rd-party Android Auto projection application, you need to enable **Unknown Sources** in Android Auto settings once. The built-in 1-Tap setup helper guides you through in less than 10 seconds:
 
