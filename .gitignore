@@ -1,7 +1,8 @@
-# Ignore all Android source code from public repository
+# Ignore all Android source code & signing keys from public repository
 app/
 server/
 tools/
+keystore/
 build/
 .gradle/
 .kotlin/
@@ -10,6 +11,10 @@ gradlew*
 *.gradle.kts
 *.properties
 local.properties
+*.jks
+*.keystore
+*.pem
+*.key
 *.bat
 *.ps1
 *.jar
