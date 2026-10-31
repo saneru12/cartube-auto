@@ -1,7 +1,7 @@
 {
-  "versionCode": 36,
-  "versionName": "2.9.4",
-  "apkUrl": "https://github.com/saneru12/cartube-auto/releases/download/v2.9.4/CarTubeAuto-v2.9.4.apk",
-  "changelog": "• Full Android 11, 12, 13, 14, 15 & 16 Compatibility (minSdk 30)\n• Steering Wheel Next/Previous & Media Notification Controls\n• Automatic Monthly Gumroad Subscription Renewal & ECDSA Security\n• YouTube Voice Search (Mic) Support & 75% Lower Idle Battery Usage\n• Car Touchscreen 1-Tap Minimize Button & Production Release Signing",
+  "versionCode": 37,
+  "versionName": "2.9.5",
+  "apkUrl": "https://github.com/saneru12/cartube-auto/releases/download/v2.9.5/CarTubeAuto-v2.9.5.apk",
+  "changelog": "• Live Cloudflare Anti-Cheat Trial & Device-Lock Cloud Sync\n• Full Android 11–16 Support & Production Release Signing\n• Steering Wheel Next/Previous & Media Notification Controls\n• Automatic Monthly Gumroad Renewal & ECDSA P-256 Security\n• YouTube Voice Search (Mic) & 75% Lower Idle Battery Usage",
   "forceUpdate": false
 }
